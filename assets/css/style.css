@@ -1,0 +1,47 @@
+.navbar {
+    background-color: rgb(3, 75, 86);
+
+}
+
+#header-syh {
+    background-image: url("/assets/img/header-electricidad-3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+}
+
+.carousel-inner {
+    height: 200px;
+}
+
+.galery {
+    display: inline-block;
+    width: 316px;
+    margin: 8px;
+    height: 202px;
+    vertical-align: middle;
+    border-radius: 0.3em;
+}
+
+.text-galery {
+    text-align: center;
+}
+
+.botones {
+    text-align: right;
+}
+
+.nuestros-trabajos {
+    background-color: rgb(3, 75, 86);
+    color: white;
+}
+
+.text-quienes-somos {
+    text-justify: auto;
+
+}
+
+.img-quines-somos {
+    width: 250px;
+    
+}
